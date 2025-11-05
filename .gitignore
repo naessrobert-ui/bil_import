@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Flask session files
+/flask_session/
+
+# IDE files
+.idea/
